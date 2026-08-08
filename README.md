@@ -13,4 +13,4 @@ Integrated physics-based interactions to enhance realism and environmental respo
 Implemented player or AI control logic for navigation and combat scenarios
 Focused on scalable and reusable architecture for future robotics or vehicle-based systems
 
-you can try the game by downloading it
+you can try the game by downloading it from releases from the right side of the main tank walker window (tank walker.zip)
